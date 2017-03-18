@@ -9,6 +9,9 @@
   },
   "author": "Milan",
   "license": "ISC",
+  "engines": {
+    "node": "6.9.1"
+  },
   "dependencies": {
     "axios": "^0.15.3",
     "express": "^4.15.2",
