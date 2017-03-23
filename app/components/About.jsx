@@ -19,7 +19,7 @@ var About = (props) => {
       </ul>
       <p><small>Milan Ricoul &copy; 2017</small></p>
     </div>
-  )
+  );
 }
 
 module.exports = About;
